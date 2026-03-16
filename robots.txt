@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://duelcasino-github-io.vercel.app/sitemap.xml
